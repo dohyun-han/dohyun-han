@@ -1,4 +1,4 @@
-# <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a> Hello World!
+# <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> Hello World!
 <b> 안녕하세요! 꾸준히 성장하는 개발자를 꿈꾸는 한도현입니다. </b>
 
 ## 🙋‍♂️ Introduction
