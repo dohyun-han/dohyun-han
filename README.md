@@ -2,8 +2,7 @@
 <b> 안녕하세요! 꾸준히 성장하는 개발자를 꿈꾸는 한도현입니다. </b>
 
 ## 🙋‍♂️ Introduction
-- 인하대학교 컴퓨터공학과 4학년에 재학 중입니다.
-- Java/Spring을 이용한 서버 분야를 공부하고 있습니다.
+- Java/Spring, Node.js을 이용한 서버 분야를 희망하고 있습니다.
 - OOP에 블록 조립과 같은 재미를 느껴 개발 공부를 시작했습니다.
 
 ## 🔗&nbsp; Contact
@@ -12,10 +11,10 @@
 ## 🛠️&nbsp; Language & Tool 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>  
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeon-han&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
