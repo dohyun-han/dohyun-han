@@ -21,18 +21,12 @@
 
 
 ## 🚀&nbsp; Lastest Work </h2>
-- <b>네이버 부스트 캠프</b> (2022-07-18 ~ )
+- <b>네이버 커넥트재단 부스트캠프 웹・모바일 7기</b> (2022.07 ~ 2022.12)
+  - [SCOPA](https://github.com/boostcampwm-2022/web25-SCOPA) (팀 프로젝트)
 - <b>[오늘의 집 클론](https://github.com/TodayHouse/TodayHouse-Backend) (팀 프로젝트)</b> (2022-01-14 ~ 2022-08-09)
   - Spring boot를 이용한 오늘의 집 클론 프로젝트
-  - JWT를 이용한 소셜 로그인 구현
-  - JPA, QueryDsl을 사용한 API 구현 및 상품, 리뷰, 댓글의 페이징 처리
-  - JPA N+1문제를 Native query의 재귀 쿼리로 해결
 - <b>[스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://github.com/dohyeon-han/freelec-springboot-webservice)</b> (2021-12-28 ~ 2022-01-10)
   - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 책을 통해 구현한 Spring boot 게시판 프로젝트
-  - JUnit4 대신 JUnit5로 테스트 코드 작성
-  - Travis CI 대신 Github Action으로 CI/CD 구현
-  - OAuth2.0을 통한 세션 기반 인증 소셜 로그인 구현
-  - AWS, Github action을 사용하여 서비스 배포에 대한 전반적인 과정 경험
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyeon-han)](https://github.com/anuraghazra/github-readme-stats)  <img align="right" src="https://komarev.com/ghpvc/?username=dohyeon-han" alt="gargakshit"/>
 <!---
