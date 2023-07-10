@@ -4,8 +4,7 @@
 <br>
 
 ## 🙋‍♂️ Introduction
-- Java/Spring, Node.js을 이용한 서버 분야를 희망하고 있습니다.
-- OOP에 블록 조립과 같은 재미를 느껴 개발 공부를 시작했습니다.
+- Java/Spring, Node.js을 이용한 서버 분야를 공부하고 있습니다.
 
 <br>
 
