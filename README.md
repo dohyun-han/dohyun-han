@@ -1,10 +1,5 @@
 # <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></a> Hello World!
-<b> 안녕하세요! 백엔드 개발자를 꿈꾸는 한도현입니다. </b>
-
-<br>
-
-## 🙋‍♂️ Introduction
-- Java/Spring, Node.js을 이용한 서버 분야를 공부하고 있습니다.
+<b> 안녕하세요! 개발자 한도현입니다. </b>
 
 <br>
 
