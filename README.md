@@ -21,11 +21,11 @@
 
 <br><hr/>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=dohyeon-han" alt="gargakshit"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=dohyun-han" alt="gargakshit"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyeon-han&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyun-han&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyeon-han)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyun-han)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 dohyeon-han/dohyeon-han is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
