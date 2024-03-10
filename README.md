@@ -4,8 +4,6 @@
 <br>
 
 ## 🔗&nbsp; Contact
-<a href="https://dohyun-han.notion.site/Backend-Engineer-05735a9b68c048b3a735d15ae68e9733"><img src="https://img.shields.io/badge/Resume-018EF5?style=flat-square&logo=ReadMe&logoColor=white"/></a>
-
 <a href="mailto:limited.hyeon@gmail.com"><img src="https://img.shields.io/badge/limited.hyeon@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:limited.hyeon@gmail.com"/></a>
 
 <br>
