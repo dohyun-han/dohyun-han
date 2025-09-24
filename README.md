@@ -6,17 +6,6 @@
 ## 🔗&nbsp; Contact
 <a href="mailto:limited.hyeon@gmail.com"><img src="https://img.shields.io/badge/limited.hyeon@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:limited.hyeon@gmail.com"/></a>
 
-<br>
-
-## 🛠️&nbsp; Language & Tool 
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>  
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/><br>  
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-red?style=flat-square&logo=NestJS&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-</p>
-
 <br><hr/>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=dohyun-han" alt="gargakshit"/>
